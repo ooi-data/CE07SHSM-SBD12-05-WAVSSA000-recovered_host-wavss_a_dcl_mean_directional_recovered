@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE07SHSM-SBD12-05-WAVSSA000-recovered_host-wavss_a_dcl_mean_directional_recovered
-last_request: '2022-01-21T17:42:18.565030Z'
+last_request: '2022-02-07T19:04:38.589708Z'
 response: https://raw.githubusercontent.com/ooi-data/CE07SHSM-SBD12-05-WAVSSA000-recovered_host-wavss_a_dcl_mean_directional_recovered/main/history/response.json
-status: success
+status: pending
